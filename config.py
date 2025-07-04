@@ -1,0 +1,3 @@
+BOT_TOKEN = ""
+MERCHANT_UUID = ""
+API_KEY = ""
